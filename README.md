@@ -1,4 +1,7 @@
-https://tenor.com/view/brokencyde-se7en-scene-scenecore-myspace-gif-1124536066194493745
+<img width="498" height="498" alt="brokencyde-se7en (1)" src="https://github.com/user-attachments/assets/d29583c7-fb2c-493f-901b-3fad52174cf7" />
+
+
+
 
 <!--
 **brokencydee/brokencydee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
