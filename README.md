@@ -7,5 +7,30 @@
   </a>
 </p>
 
+<style>
+  .typewriter {
+    font-family: monospace;
+    color: #ff69b4; /* Hot pink */
+    overflow: hidden;
+    white-space: nowrap;
+    border-right: 0.15em solid #ff69b4;
+    animation: typing 4s steps(45, end), blink-caret 0.75s step-end infinite;
+    font-size: 1.5rem;
+    margin: 0 auto;
+  }
 
+  @keyframes typing {
+    from { width: 0 }
+    to { width: 100% }
+  }
+
+  @keyframes blink-caret {
+    from, to { border-color: transparent }
+    50% { border-color: #ff69b4; }
+  }
+</style>
+
+<div class="typewriter">
+  user doesn t care as long as you can make him c*m
+</div>
 
