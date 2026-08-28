@@ -7,4 +7,4 @@
   </a>
 </p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montenegrin+Gothic+One&pause=1000&color=F713B9&width=435&lines=User+doesn't+care+as+long+as+you+can+make+him+cum" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montenegrin+Gothic+One&pause=1000&color=F713B9&width=435&lines=Idc+as+long+as+you+can+make+a+brother+cum" alt="Typing SVG" /></a>
